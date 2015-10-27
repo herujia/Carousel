@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Carousel/SignInViewController.swift"
+            timestampString = "467656079.877101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "signinButton(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Carousel/SignInViewController.swift"
+            timestampString = "467656389.727937"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "SignInViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.scrollVIew.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.193969"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.scrollVIew.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.194209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.194391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "469">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)() -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.194514"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "398">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.194632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "418">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Carousel/SignInViewController.swift"
+            timestampString = "467656397.576221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "SignInViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.textImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImageView&gt;"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.225878"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.textImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImageView&gt;"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.226047"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.226339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "365">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)() -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.226474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "286">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Carousel.SignInViewController.init (Carousel.SignInViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Carousel.SignInViewController"
+                  moduleName = "Carousel"
+                  urlString = "file:///Users/rujia/Dropbox%20(Personal)/Works/Swift/Carousel/Carousel/SignInViewController.swift"
+                  timestampString = "467657332.226645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "306">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
